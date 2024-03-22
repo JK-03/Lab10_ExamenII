@@ -173,6 +173,5 @@ public class PSNUsers {
         }
         return null;
     }
-
 }
 

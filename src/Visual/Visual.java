@@ -343,7 +343,6 @@ public class Visual {
                     JOptionPane.showMessageDialog(null, "Complete el campo de Username", "Campo Incompleto", JOptionPane.ERROR_MESSAGE);
                     return;
                 }
-
                 infoArea.setText(Main.psnUsers.playerinfo(username));
             }
         });
